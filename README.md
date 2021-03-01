@@ -1,5 +1,5 @@
 # make-movie
-see https://stackoverflow.com/a/36290742
+see https://stackoverflow.com/a/36290742/166661
 
 to test it, I added this function to a UICollectionViewController that's set up to select images from a UIImageView
 (it's kind of a mess, but I was just trying to test the image-to-video stuff before I port it to AppKit)
